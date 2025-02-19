@@ -1,0 +1,37 @@
+_repo: Reconstruction-in-Louisiana-after-1868_75190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lonn, Ella
+    alias: Lonn, Ella Victoria
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '57876'
+    url: http://www.gutenberg.org/2009/agents/57876
+    wikipedia: https://en.wikipedia.org/wiki/Ella_Lonn
+description: Comprises the first four chapters of a much larger work which was published
+  without thesis note but with the same title.
+gutenberg_issued: '2025-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75190'
+  lccn: '18019396'
+language: en
+pgterms:marc904: https://archive.org/details/reconstructionin00lonn/page/n7/mode/2up
+pgterms:marc905: 20221230180249lonn
+pgterms:marc906: '1918'
+pgterms:marc907: NY
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Louisiana'
+- !lcsh 'Louisiana -- Politics and government -- 1865-1950'
+- !lcc 'F350.5'
+- GITenberg
+title: Reconstruction in Louisiana after 1868
+url: http://www.gutenberg.org/ebooks/75190
